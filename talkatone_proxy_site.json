@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"rules": {
+	"rules": [{
 		"domain_suffix": ["tktn.a", "tktn.be", "vm.talkatone.com", "talkatone.com"]
-	}
+	}]
 }
