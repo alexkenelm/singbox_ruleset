@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"rules": {
+	"rules": [{
 		"domain_suffix": [
 			"agkn.com",
 			"cohere.com",
@@ -11,5 +11,5 @@
 			"kochava.com",
 			"mobilefuse.com"
 		]
-	}
+	}]
 }
