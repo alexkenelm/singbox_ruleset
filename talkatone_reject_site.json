@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"rules": {
+	"rules": [{
 		"domain_keyword": ["googleads"],
 		"domain_suffix": [
 			"aax.amazon-adsystem.com",
@@ -65,5 +65,5 @@
 			"wv.inner-active.mobi",
 			"www.googletagservices-cn.com"
 		]
-	}
+	}]
 }
